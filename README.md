@@ -1,5 +1,5 @@
 # Description
-This is the final assignment for the Bakend Developer Capstone Course of the Meta Backend Developer Professional Certificate on Coursera.
+This is a booking system for restaurant with api serves as endpoints.
 <br> <br>
 
 # Project Structure
