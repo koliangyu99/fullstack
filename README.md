@@ -1,5 +1,5 @@
 # Description
-This is a booking system for restaurant with api serves as endpoints.
+This is a booking system for restaurant with api serves as endpoints. 
 <br> <br>
 
 # Project Structure
